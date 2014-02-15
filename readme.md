@@ -1,9 +1,10 @@
 Trinky
 =========
 
+[![Trinky](https://github.com/beargun/trinky/raw/master/pictures/trinky-top.jpg)](https://github.com/beargun/trinky/raw/master/pictures/trinky-1.jpg)
+
 ## A Trinket clone using only through-hole components
 
-[![Trinky](https://github.com/beargun/trinky/raw/master/pictures/trinky-top.jpg)](https://github.com/beargun/trinky/raw/master/pictures/trinky-1.jpg)
 
 
 The goal of this project was to create a [Trinket](https://github.com/adafruit/Adafruit-Trinket-USB) clone using only through-hole components. 
