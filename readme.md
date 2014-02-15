@@ -15,5 +15,5 @@ The goal of this project was to create a [Trinket](https://github.com/adafruit/A
 *   **No voltage regulator**. The ATtiny85 will work on 2.7-5.5V. If you power your project using batteries, a voltage regulator will just increase battery usage. Just choose a battery with less than 5.5V.
 *   **Small footprint**. Get it at least as small as the original Trinket.
 *   **Optional fuse**. I'm really fond of my USB ports, so for extra peace of mind I added a polyfuse. I choose a surface-mount ptc fuse, as they tend to be faster than through hole versions. This fuse is optional (as it would break the first goal).  
-*   **Different bootloader**. I slighty altered the bootloader, to have it go into programming mode, only when the reset button is pressed. So when you power it up, your code will run immediately, instead of after 10 seconds.
+*   **Different bootloader**. I slighty [altered the bootloader](https://github.com/beargun/Adafruit-Trinket-Gemma-Bootloader), to have it go into programming mode, only when the reset button is pressed. So when you power it up, your code will run immediately, instead of after 10 seconds.
 
