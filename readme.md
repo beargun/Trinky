@@ -72,7 +72,7 @@ Remove two of the leads from the button. I also had to remove a bit of one corne
 Here I added the button and the 1800-Ohm resitor (Trinket uses 1500-Ohm). **You should put this resistor one the bottom. As it won't really fit, if you've moved the two resistors as I instructed above**
 <br />![Trinky](https://github.com/beargun/trinky/raw/master/pictures/trinky-18.jpg)
 
-Here come the brains. I've already flashed my altered the bootloader](https://github.com/beargun/Adafruit-Trinket-Gemma-Bootloader) onto it.
+Here come the brains. I've already flashed my [altered bootloader](https://github.com/beargun/Adafruit-Trinket-Gemma-Bootloader) onto it.
 <br />![Trinky](https://github.com/beargun/trinky/raw/master/pictures/trinky-19.jpg)
 
 Bend over the pins. 
