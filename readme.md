@@ -69,7 +69,7 @@ Note the solder bridge I accidentally made. I only noticed it when I was done, a
 Remove two of the leads from the button. I also had to remove a bit of one corner. You shouldn't have to do that if you moved the resistor a bit more to the right.
 <br />![Trinky](https://github.com/beargun/trinky/raw/master/pictures/trinky-17.jpg)
 
-Here I added the button and the 1800-Ohm resistor (Trinket uses 1500-Ohm). **You should put this resistor one the bottom. As it won't really fit, if you've moved the two resistors as I instructed above**
+Here I added the button and the 1800-Ohm resistor (Trinket uses 1500-Ohm). **You should put this resistor one the bottom. As it won't really fit, once you move the two resistors, as instructed above**
 <br />![Trinky](https://github.com/beargun/trinky/raw/master/pictures/trinky-18.jpg)
 
 Here come the brains. I've already flashed my [altered bootloader](https://github.com/beargun/Adafruit-Trinket-Gemma-Bootloader) onto it.
